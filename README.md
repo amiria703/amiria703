@@ -8,7 +8,6 @@ I'm amiria703, Or in the real world, Amir Hossein Maher.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiria703@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amiria703)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amiria703)
-[![Telegram2](https://img.shields.io/badge/Telegram%20(Personal)-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/swiftic_programmer)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amiria703)
 [![Website](https://img.shields.io/badge/website%20(Currently%20Offline)-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://amiria703.ir)
 [![StackExchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://stackexchange.com/users/18385810?tab=accounts)
