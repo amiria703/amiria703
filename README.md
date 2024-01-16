@@ -1,6 +1,6 @@
-### Hi there! 👋
+### Willkommen! 👋
 
-I'm amiria703, Or in the real world, Amir Hossein Maher.
+I'm Amiria.
 
 [![GitHub followers](https://img.shields.io/github/followers/amiria703?logo=github&style=for-the-badge "Follow my GitHub profile!")](https://github.com/amiria703)
 [![Telegram Channel](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Famiria703_channel "Join my channel!")](https://t.me/amiria703_channel)
@@ -9,7 +9,7 @@ I'm amiria703, Or in the real world, Amir Hossein Maher.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amiria703)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amiria703)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amiria703)
-[![Website](https://img.shields.io/badge/website%20(Currently%20Offline)-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://amiria703.ir)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://amiria703.ir)
 [![StackExchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://stackexchange.com/users/18385810?tab=accounts)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Amir-Hossein-Maher)
 [![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://last.fm/user/amiria703)
@@ -20,11 +20,11 @@ I'm amiria703, Or in the real world, Amir Hossein Maher.
 
 Things I often use:
 
+![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
 
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
-![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
+![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
@@ -43,9 +43,6 @@ Things I often use:
 ![](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
 
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)
-![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 حمایت از من:\
 \
